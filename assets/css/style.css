@@ -1,0 +1,53 @@
+/* ------- all pages Overall ------ */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+}
+
+/* ------- all pages Navbar/Header -------*/
+
+
+
+/* ------- index Body  -------*/
+
+.index_image {
+    background-color: #4aaaa5;
+    image-orientation: center;
+    width: 100%;
+    height: 500px;
+}
+
+/*------- about me body -------*/
+
+
+
+/*------- portfolio body ------*/
+
+
+/*------- contact body ------*/
+
+
+/*------- all pages body -------*/
+
+.page_title {
+    margin-left: 35px;
+}
+
+/* ------- all pages Footer  -------*/
+
+.greenfooter {
+    background-color: #005ce6;
+    width: 100%;
+    height: 7px;
+}
+
+.footer {
+    color: #f3f3f3;
+    text-align: center;
+    background-color: #808080;
+    width: 100%;
+    height: 100px;
+    padding-top: 35px;
+}
